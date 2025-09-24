@@ -1,3 +1,4 @@
  'date' :: Change 2 
 <<<<<<< HEAD
  'date' :: Change 3 
+ 'date' :: for stash demo
