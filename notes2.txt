@@ -1,2 +1,4 @@
  'date' :: Change 2 
  'date' :: Change 3 
+ 'date' :: working with merge :: conflict demo  
+ 'date' :: working with merge :: conflict demo  
