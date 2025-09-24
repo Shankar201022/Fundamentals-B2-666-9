@@ -2,3 +2,4 @@
 <<<<<<< HEAD
  'date' :: Change 3 
  'date' :: for stash demo
+ 'date' :: revert demo
