@@ -1,2 +1,7 @@
  'date' :: Change 2 
+<<<<<<< HEAD
  'date' :: Change 3 
+=======
+ 'date' :: Change 4 
+>>>>>>> dev-2
+ 'date' :: working with merge :: conflict demo  
